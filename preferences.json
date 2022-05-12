@@ -1,7 +1,9 @@
 {
-   the movie: "Титаник",
-   series: "Друзья",
-   food: "рыба",
-   season: "весна",
-   the country: "Грузия"
+   "preferences":{
+	"favorite movie": "Титаник",
+	"favorite series": "Друзья",
+	"favorite food": "рыба",
+	"favorite season": "весна",
+	"favorite  country": "Грузия"
+   }
 }
